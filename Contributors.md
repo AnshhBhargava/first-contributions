@@ -13,6 +13,7 @@
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
+- [Ansh Bhargava]@DevsocPI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
@@ -68,7 +69,6 @@
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [something-ai-hash](https://github.com/something-ai-hash)
 - [John Harold Sipat]
-- [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
